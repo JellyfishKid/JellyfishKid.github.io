@@ -127,7 +127,11 @@ li a:hover:not(.active) {
 }
 
 .rectangle4.world {
-  top:1350px;
+  top:1550px;
+}
+
+.rectangle4.DMan {
+  top:2050px;
 }
 
 p {
@@ -141,23 +145,23 @@ a.a {
 
 a.b {
   position: absolute;
-  top: 130px;
-  left: 7%;
+  top: 135px;
+  left: 10%;
   display:block;
   z-index: 99;
 }
 
 a.c {
   position: absolute;
-  top: 130px;
-  left: 47%;
+  top: 135px;
+  left: 50%;
   display:block;
 }
 
 a.d {
   position: absolute;
-  width: 400px;
-  height: 100px;
+  width: 200px;
+  height: 50px;
   top: 370px;
   left: 20%;
 }
@@ -183,6 +187,22 @@ a.g {
   width: 400px;
   height: 200px;
   top: 1225px;
+  left: 20%;
+}
+
+a.h {
+  position: absolute;
+  width: 400px;
+  height: 200px;
+  top: 1530px;
+  left: 20%;
+}
+
+a.i {
+  position: absolute;
+  width: 400px;
+  height: 200px;
+  top: 2025px;
   left: 20%;
 }
 
