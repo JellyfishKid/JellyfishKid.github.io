@@ -151,6 +151,8 @@ a.a {
 
 a.b {
   position: absolute;
+  width: 100px;
+  height: 25px;
   top: 135px;
   left: 10%;
   display:block;
@@ -159,6 +161,8 @@ a.b {
 
 a.c {
   position: absolute;
+  width: 100px;
+  height: 25px;
   top: 135px;
   left: 50%;
   display:block;
