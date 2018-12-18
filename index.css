@@ -127,11 +127,11 @@ li a:hover:not(.active) {
 }
 
 .rectangle4.world {
-  top:1650px;
+  top:1450px;
 }
 
 .rectangle4.DMan {
-  top:2050px;
+  top:4050px;
 }
 
 p {
@@ -202,7 +202,7 @@ a.i {
   position: absolute;
   width: 200px;
   height: 50px;
-  top: 2025px;
+  top: 4050px;
   left: 20%;
 }
 
