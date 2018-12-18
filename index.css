@@ -114,16 +114,20 @@ li a:hover:not(.active) {
   top:300px;
 }
 
-.rectangle4.tension {
+.rectangle4.understanding {
   top:560px;
 }
 
-.rectangle4.wellbeing {
+.rectangle4.tension {
   top:850px;
 }
 
-.rectangle4.world {
+.rectangle4.wellbeing {
   top:1150px;
+}
+
+.rectangle4.world {
+  top:1350px;
 }
 
 p {
@@ -214,4 +218,3 @@ footer {
   font-size: 12px;
   font-family: "Times New Roman", Times, serif;
 }
-
