@@ -33,6 +33,7 @@ li a {
 
 li a:hover:not(.active) {
   background-color: #34515e;
+  font-family: "Helvetica Neue", "Arial",  sans-serif
 }
 
 .a.active {
@@ -51,11 +52,11 @@ li a:hover:not(.active) {
 }
 
 .container.project {
-  height:1600px;
+  height:1550px;
 }
 
 .container.design {
-  height:10500px;
+  height:2500px;
 }
 
 .rectangle1 {
@@ -94,7 +95,7 @@ li a:hover:not(.active) {
 }
 
 .rectangle3.project {
-  height: 2500px;
+  height: 2000px;
 }
 
 .rectangle3.design {
