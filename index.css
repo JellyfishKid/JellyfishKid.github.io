@@ -10,7 +10,7 @@ header {
 }
 
 ul {
-  background-color: #006699;
+  background-color: #8eacbb;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -32,7 +32,7 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: #006699;
+  background-color: #34515e;
 }
 
 .a.active {
@@ -59,10 +59,10 @@ li a:hover:not(.active) {
 
 .rectangle1 {
   position: absolute;
-  top: 40px;
+  top: 30px;
   left: 9%;
   padding-right: 4em;
-  background-color: #434343;
+  background-color: #000c25;
   height: 10px;
   width: 80%;
 }
@@ -74,7 +74,7 @@ li a:hover:not(.active) {
   width: 14%;
   text-align: center;
   padding: 1em;
-  background-color: #980000;
+  background-color: #00334d;
   color: white;
   z-index: 99;
 }
@@ -102,7 +102,7 @@ li a:hover:not(.active) {
   text-align: center;
   padding: 1em;
   padding-right: 6em;
-  background-color: #434343;
+  background-color: #000c25;
   color: white;
 }
 
@@ -205,16 +205,4 @@ images {
   position: relative;
   height: 100px;
 
-}
-
-
-
-
-footer {
-  padding: 1em;
-  text-align: left;
-  background-color: #434343;
-  color: #FFF;
-  font-size: 12px;
-  font-family: "Helvetica Neue", "Arial",  sans-serif;
 }
