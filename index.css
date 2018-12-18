@@ -3,14 +3,14 @@
 header {
   padding: 1em;
   text-align: left;
-  background-color: #003399;
+  background-color: #00334d;
   color: #FFF;
   font-size: 24px;
   font-family: "Helvetica Neue", "Arial",  sans-serif;
 }
 
 ul {
-  background-color: #66ccff;
+  background-color: #006699;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -32,7 +32,7 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: #E1E0E0;
+  background-color: #006699;
 }
 
 .a.active {
