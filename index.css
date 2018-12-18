@@ -94,7 +94,11 @@ li a:hover:not(.active) {
 }
 
 .rectangle3.project {
-  height: 2000px;
+  height: 2500px;
+}
+
+.rectangle3.design {
+  height: 4500px;
 }
 
 .rectangle4 {
