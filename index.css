@@ -127,7 +127,7 @@ li a:hover:not(.active) {
 }
 
 .rectangle4.world {
-  top:1550px;
+  top:1650px;
 }
 
 .rectangle4.DMan {
@@ -168,40 +168,40 @@ a.d {
 
 a.e {
   position: absolute;
-  width: 400px;
-  height: 200px;
+  width: 200px;
+  height: 50px;
   top:630px;
   left: 20%;
 }
 
 a.f {
   position: absolute;
-  width: 400px;
-  height: 200px;
+  width: 200px;
+  height: 50px;
   top: 920px;
   left: 20%;
 }
 
 a.g {
   position: absolute;
-  width: 400px;
-  height: 200px;
+  width: 200px;
+  height: 50px;
   top: 1225px;
   left: 20%;
 }
 
 a.h {
   position: absolute;
-  width: 400px;
-  height: 200px;
+  width: 200px;
+  height: 50px;
   top: 1530px;
   left: 20%;
 }
 
 a.i {
   position: absolute;
-  width: 400px;
-  height: 200px;
+  width: 200px;
+  height: 50px;
   top: 2025px;
   left: 20%;
 }
